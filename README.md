@@ -1,2 +1,2 @@
-# cv
-my cv
+## My Resume
+this is my CV in html format.
