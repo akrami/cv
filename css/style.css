@@ -1,0 +1,67 @@
+* {
+  font-family: 'Quicksand', sans-serif;
+}
+
+body {
+  background-color: #E0E4CC;
+}
+
+div#entire-content {
+  margin-top: 5em;
+}
+
+img#profile-picture {
+  width: 200px;
+  height: 200px;
+  margin-top: 1em;
+}
+
+#panel-sidebar {
+  background-color: #AF9EA0;
+}
+
+#bg1 {
+  position: fixed;
+  z-index: -3;
+  background-color: #A7DBD8;
+  width: 500px;
+  height: 500px;
+  right: -250px;
+  top: -250px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
+#bg2 {
+  position: fixed;
+  z-index: -3;
+  background-color: #69D2E7;
+  width: 500px;
+  height: 500px;
+  right: 650px;
+  top: 150px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
+table td {
+  font-size: 0.9em;
+}
+
+.ak-orange-color {
+  color: #FDA800;
+}
+
+.card {
+  margin-bottom: 2em;
+}
+
+.badge-orange {
+  background-color: #FDA800;
+}
+
+.img-avatar {
+  width: 25px;
+  height: 25px;
+}
+/*# sourceMappingURL=style.css.map */
