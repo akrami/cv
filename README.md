@@ -1,4 +1,3 @@
 ## My Resume
-this is my CV in html format.
 
-update time: june 2017
+update time: December 2019
