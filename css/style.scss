@@ -1,72 +1,78 @@
-$firstColor  : #E0E4CC;
-$secondColor : #A7DBD8;
-$thirdColor  : #69D2E7;
-$fourthColor : #AF9EA0;
-$fifthColor  : #FA6900;
+$firstColor: #e0e4cc;
+$secondColor: #a7dbd8;
+$thirdColor: #69d2e7;
+$fourthColor: #af9ea0;
+$fifthColor: #fa6900;
 
 * {
-    font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
 }
 
 body {
-    background-color: $firstColor;
+  background-color: $firstColor;
 }
 
 div#entire-content {
-    margin-top: 5em;
+  margin-top: 5em;
 }
 
 img#profile-picture {
-    width: 200px;
-    height: 200px;
-    margin-top: 1em;
+  width: 200px;
+  height: 200px;
+  margin-top: 1em;
 }
 
 #panel-sidebar {
-    background-color: $fourthColor;
+  background-color: $fourthColor;
 }
 
 #bg1 {
-    position: fixed;
-    z-index: -3;
-    background-color: $secondColor;
-    width: 500px;
-    height: 500px;
-    right: -250px;
-    top: -250px;
-    transform: rotate(45deg);
+  position: fixed;
+  z-index: -3;
+  background-color: $secondColor;
+  width: 500px;
+  height: 500px;
+  right: -250px;
+  top: -250px;
+  transform: rotate(45deg);
 }
 
 #bg2 {
-    position: fixed;
-    z-index: -3;
-    background-color: $thirdColor;
-    width: 500px;
-    height: 500px;
-    right: 650px;
-    top: 150px;
-    transform: rotate(45deg);
+  position: fixed;
+  z-index: -3;
+  background-color: $thirdColor;
+  width: 500px;
+  height: 500px;
+  right: 650px;
+  top: 150px;
+  transform: rotate(45deg);
 }
 
 table {
-    td {
-        font-size: 0.9em;
-    }
+  td {
+    font-size: 0.9em;
+  }
 }
 
 .ak-orange-color {
-    color: #FDA800;
+  color: #fda800;
 }
 
 .card {
-    margin-bottom: 2em;
+  margin-bottom: 2em;
 }
 
 .badge-orange {
-    background-color: #FDA800;
+  background-color: #fda800;
 }
 
 .img-avatar {
-    width: 25px;
-    height: 25px;
+  width: 25px;
+  height: 25px;
+}
+
+#skills {
+  td {
+    width: 25%;
+  }
 }

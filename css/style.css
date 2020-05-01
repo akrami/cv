@@ -1,9 +1,9 @@
 * {
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
 }
 
 body {
-  background-color: #E0E4CC;
+  background-color: #e0e4cc;
 }
 
 div#entire-content {
@@ -17,13 +17,13 @@ img#profile-picture {
 }
 
 #panel-sidebar {
-  background-color: #AF9EA0;
+  background-color: #af9ea0;
 }
 
 #bg1 {
   position: fixed;
   z-index: -3;
-  background-color: #A7DBD8;
+  background-color: #a7dbd8;
   width: 500px;
   height: 500px;
   right: -250px;
@@ -35,7 +35,7 @@ img#profile-picture {
 #bg2 {
   position: fixed;
   z-index: -3;
-  background-color: #69D2E7;
+  background-color: #69d2e7;
   width: 500px;
   height: 500px;
   right: 650px;
@@ -49,7 +49,7 @@ table td {
 }
 
 .ak-orange-color {
-  color: #FDA800;
+  color: #fda800;
 }
 
 .card {
@@ -57,11 +57,15 @@ table td {
 }
 
 .badge-orange {
-  background-color: #FDA800;
+  background-color: #fda800;
 }
 
 .img-avatar {
   width: 25px;
   height: 25px;
+}
+
+#skills td {
+  width: 25%;
 }
 /*# sourceMappingURL=style.css.map */
